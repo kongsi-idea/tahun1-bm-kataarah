@@ -12,4 +12,4 @@
 - 本机测试：`python3 -m http.server 8793 --bind 127.0.0.1`；gen-voice／测试都用 8793。
 
 ## 最后更新
-2026-10-14（已上线上架）
+2026-10-14 01:50，Claude Sonnet 5.5 @ Mac；Git：✅ 已推
