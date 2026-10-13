@@ -1,7 +1,7 @@
 # Kibarkan Bendera: Kata Arah · 交接
 
 ## 目前做到哪
-子代理已实作完成（2026-10-14）：index/styles/app/scenes、素材（make-assets.py）、音档 133 句、test-e2e.py、test-mobile.py 全过。未 commit、未部署，等主对话验收。
+2026-10-14 已上线：https://tahun1-bm-kataarah.vercel.app（GitHub kongsi-idea/tahun1-bm-kataarah，push main 自动部署）；已上架点子铺（Hub 条目、缩图、dskp-index、coverage 行）。
 
 ## 待老师核对
 - 课本第 2 句「Nani berdiri (di) ___ Sin Ling」答案 belakang 是按图推断，空格前有无 di、人名牌看不清，待核对课本原页。
@@ -12,4 +12,4 @@
 - 本机测试：`python3 -m http.server 8793 --bind 127.0.0.1`；gen-voice／测试都用 8793。
 
 ## 最后更新
-2026-10-14
+2026-10-14（已上线上架）
