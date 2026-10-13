@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ms">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Kibarkan Bendera · Kata Arah</title>
+  <meta name="description" content="Latihan kata arah (atas, bawah, belakang, hadapan) untuk Bahasa Melayu Tahun 1: Kibarkan Bendera Malaysia.">
+  <link rel="preload" href="fonts/fredoka.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://kongsi-idea.vercel.app/data/track-use.js" data-slug="tahun1-bm-kataarah" defer></script>
+</head>
+<body>
+<div id="app">
+
+  <!-- Laman utama -->
+  <section id="home" class="home" aria-label="Laman utama">
+    <div class="home-hero"><img src="assets/bg45.webp" alt="" width="1536" height="1024"></div>
+    <header class="home-title">
+      <h1>Kibarkan Bendera</h1>
+      <p class="sub">Kata Arah</p>
+    </header>
+    <div class="mode-pick" role="group" aria-label="Pilih permainan">
+      <button class="pill big c-mint" data-mode="kenali" type="button"><b>Kenali</b><small>Sentuh dan dengar</small></button>
+      <button class="pill big c-sun" data-mode="jawab" type="button"><b>Jawab</b><small>Pilih kata yang betul</small></button>
+      <button class="pill big c-berry" data-mode="susun" type="button"><b>Susun</b><small>Susun barisan perhimpunan</small></button>
+    </div>
+    <p class="source">Sumber: Buku Teks Bahasa Melayu Tahun 1, BA ms. 28 (DSKP 5.1.4 iii)</p>
+  </section>
+
+  <!-- Permainan -->
+  <section id="play" class="play" hidden aria-label="Permainan">
+    <header class="topbar">
+      <button id="btnHome" class="pill sm c-sun" type="button">Menu</button>
+      <nav class="steps" aria-label="Peringkat">
+        <button class="step" data-mode="kenali" type="button">Kenali</button><i class="chev" aria-hidden="true"></i>
+        <button class="step" data-mode="jawab" type="button">Jawab</button><i class="chev" aria-hidden="true"></i>
+        <button class="step" data-mode="susun" type="button">Susun</button>
+      </nav>
+      <button id="btnVoice" class="pill sm c-cloud" type="button" aria-pressed="true"><span class="vl">Suara: </span>Buka</button>
+    </header>
+    <main class="play-body">
+      <div class="stage-wrap"><div id="stage" class="stage"></div></div>
+      <aside id="panel" class="panel" aria-live="polite"></aside>
+    </main>
+  </section>
+
+</div>
+<script src="scenes.js"></script>
+<script src="audio/manifest.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,667 @@
+[
+ {
+  "text": "Betul!",
+  "voice": "ms-MY-YasminNeural",
+  "key": "35ea2478"
+ },
+ {
+  "text": "Cuba lagi.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "ec0edf07"
+ },
+ {
+  "text": "Tahniah!",
+  "voice": "ms-MY-YasminNeural",
+  "key": "58cee261"
+ },
+ {
+  "text": "Tahniah! Kita kibarkan bendera!",
+  "voice": "ms-MY-YasminNeural",
+  "key": "3484de39"
+ },
+ {
+  "text": "Semua murid menghadap pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "06eed845"
+ },
+ {
+  "text": "Tahap 1",
+  "voice": "ms-MY-YasminNeural",
+  "key": "2324d494"
+ },
+ {
+  "text": "Tahap 2",
+  "voice": "ms-MY-YasminNeural",
+  "key": "2624d94d"
+ },
+ {
+  "text": "Tahap 3",
+  "voice": "ms-MY-YasminNeural",
+  "key": "2524d7ba"
+ },
+ {
+  "text": "atas",
+  "voice": "ms-MY-YasminNeural",
+  "key": "4c6e75cc"
+ },
+ {
+  "text": "Cuba atas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "1ad011b9"
+ },
+ {
+  "text": "bawah",
+  "voice": "ms-MY-YasminNeural",
+  "key": "2ea61cd4"
+ },
+ {
+  "text": "Cuba bawah.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "440eea6b"
+ },
+ {
+  "text": "belakang",
+  "voice": "ms-MY-YasminNeural",
+  "key": "019030b0"
+ },
+ {
+  "text": "Cuba belakang.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "249abea9"
+ },
+ {
+  "text": "hadapan",
+  "voice": "ms-MY-YasminNeural",
+  "key": "438b5c34"
+ },
+ {
+  "text": "Cuba hadapan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "e488a9bf"
+ },
+ {
+  "text": "Cikgu Mohan berdiri di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "eb7a3057"
+ },
+ {
+  "text": "Murid-murid berhimpun di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "0e0b775b"
+ },
+ {
+  "text": "Zali berdiri di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "d92689ca"
+ },
+ {
+  "text": "Rani berdiri di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "34f09fe4"
+ },
+ {
+  "text": "Wei Han di hadapan. Zali di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "aabe08bd"
+ },
+ {
+  "text": "Murid-murid berkumpul di ... guru.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "6cc9d41d"
+ },
+ {
+  "text": "Murid-murid berkumpul di hadapan guru.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "f95d3d10"
+ },
+ {
+  "text": "Murid-murid ada di hadapan guru.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "14a6ba33"
+ },
+ {
+  "text": "Nani berdiri di ... Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "510dd8d3"
+ },
+ {
+  "text": "Nani berdiri di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "2a06e682"
+ },
+ {
+  "text": "Nani ada di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "7012c029"
+ },
+ {
+  "text": "Cikgu Mohan berdiri di ... pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "80a35416"
+ },
+ {
+  "text": "Cikgu Mohan ada di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "83c4d1ec"
+ },
+ {
+  "text": "Rani berdiri di ... pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "0afb283b"
+ },
+ {
+  "text": "Rani ada di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "b9e85d6f"
+ },
+ {
+  "text": "Sin Ling berdiri di ... Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "870bd73b"
+ },
+ {
+  "text": "Sin Ling berdiri di hadapan Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "7e171fce"
+ },
+ {
+  "text": "Sin Ling ada di hadapan Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "97c3f7a7"
+ },
+ {
+  "text": "Zali berdiri di ... Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "ef12e911"
+ },
+ {
+  "text": "Zali ada di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "e209edb7"
+ },
+ {
+  "text": "Murid-murid berhimpun di ... pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "08b79226"
+ },
+ {
+  "text": "Murid-murid ada di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "9c541ebf"
+ },
+ {
+  "text": "Wei Han berdiri di ... Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "b7f0a0b9"
+ },
+ {
+  "text": "Wei Han berdiri di hadapan Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "7abc4bc8"
+ },
+ {
+  "text": "Wei Han ada di hadapan Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "66763d4d"
+ },
+ {
+  "text": "Wei Han berdiri di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "576340b1"
+ },
+ {
+  "text": "Sin Ling berdiri di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "8467bc21"
+ },
+ {
+  "text": "Zali berdiri di belakang Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "0703d656"
+ },
+ {
+  "text": "Nani berdiri di belakang Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "1eb9215a"
+ },
+ {
+  "text": "Sin Ling berdiri di hadapan Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "09dba952"
+ },
+ {
+  "text": "Rani berdiri di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "6b1c841e"
+ },
+ {
+  "text": "Zali berdiri di belakang Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "fc6d4612"
+ },
+ {
+  "text": "Nani berdiri di hadapan Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "0da75b56"
+ },
+ {
+  "text": "Itu bukan Wei Han. Cari Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "78fd9219"
+ },
+ {
+  "text": "Itu bukan Zali. Cari Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "6fbe0667"
+ },
+ {
+  "text": "Itu bukan Nani. Cari Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "133b9bd7"
+ },
+ {
+  "text": "Itu bukan Sin Ling. Cari Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "a1ae51b3"
+ },
+ {
+  "text": "Itu bukan Rani. Cari Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "1166205f"
+ },
+ {
+  "text": "Itu bukan Cikgu Mohan. Cari Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "6277c505"
+ },
+ {
+  "text": "Kamu letak Wei Han di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "af3ac32f"
+ },
+ {
+  "text": "Kamu letak Wei Han di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "24a866f3"
+ },
+ {
+  "text": "Kamu letak Wei Han di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "b345e248"
+ },
+ {
+  "text": "Kamu letak Wei Han di hadapan Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "b5df773e"
+ },
+ {
+  "text": "Kamu letak Wei Han di belakang Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "9cf3d962"
+ },
+ {
+  "text": "Kamu letak Wei Han di hadapan Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "5e9b8ff0"
+ },
+ {
+  "text": "Kamu letak Wei Han di belakang Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "794ae87c"
+ },
+ {
+  "text": "Kamu letak Wei Han di hadapan Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "2982e69e"
+ },
+ {
+  "text": "Kamu letak Wei Han di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "0c8b848a"
+ },
+ {
+  "text": "Kamu letak Wei Han di hadapan Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "b0f1b79c"
+ },
+ {
+  "text": "Kamu letak Wei Han di belakang Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "90233e50"
+ },
+ {
+  "text": "Kamu letak Wei Han di hadapan Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "8eb5d04e"
+ },
+ {
+  "text": "Kamu letak Wei Han di belakang Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "4623fd9a"
+ },
+ {
+  "text": "Kamu letak Zali di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "9b0ddd8d"
+ },
+ {
+  "text": "Kamu letak Zali di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "d7c40685"
+ },
+ {
+  "text": "Kamu letak Zali di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "b22a159a"
+ },
+ {
+  "text": "Kamu letak Zali di hadapan Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "d42b9f0e"
+ },
+ {
+  "text": "Kamu letak Zali di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "f06009d2"
+ },
+ {
+  "text": "Kamu letak Zali di hadapan Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "80f9f7fa"
+ },
+ {
+  "text": "Kamu letak Zali di belakang Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "a567714e"
+ },
+ {
+  "text": "Kamu letak Zali di hadapan Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "fefdc840"
+ },
+ {
+  "text": "Kamu letak Zali di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "3aa7a4a4"
+ },
+ {
+  "text": "Kamu letak Zali di hadapan Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "5a79f66e"
+ },
+ {
+  "text": "Kamu letak Zali di belakang Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "ce61dbda"
+ },
+ {
+  "text": "Kamu letak Zali di hadapan Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "97d617b8"
+ },
+ {
+  "text": "Kamu letak Zali di belakang Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "07a0faac"
+ },
+ {
+  "text": "Kamu letak Nani di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "cbf23697"
+ },
+ {
+  "text": "Kamu letak Nani di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "8f4b086b"
+ },
+ {
+  "text": "Kamu letak Nani di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "d6ad1570"
+ },
+ {
+  "text": "Kamu letak Nani di hadapan Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "cf8f2680"
+ },
+ {
+  "text": "Kamu letak Nani di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "b03e226c"
+ },
+ {
+  "text": "Kamu letak Nani di hadapan Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "75e81196"
+ },
+ {
+  "text": "Kamu letak Nani di belakang Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "32073cba"
+ },
+ {
+  "text": "Kamu letak Nani di hadapan Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "3c96c276"
+ },
+ {
+  "text": "Kamu letak Nani di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "89fb47a2"
+ },
+ {
+  "text": "Kamu letak Nani di hadapan Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "75565524"
+ },
+ {
+  "text": "Kamu letak Nani di belakang Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "403b6d18"
+ },
+ {
+  "text": "Kamu letak Nani di hadapan Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "c513aca6"
+ },
+ {
+  "text": "Kamu letak Nani di belakang Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "696c2a32"
+ },
+ {
+  "text": "Kamu letak Sin Ling di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "67d713ed"
+ },
+ {
+  "text": "Kamu letak Sin Ling di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "698027e5"
+ },
+ {
+  "text": "Kamu letak Sin Ling di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "e422567a"
+ },
+ {
+  "text": "Kamu letak Sin Ling di hadapan Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "7edced6e"
+ },
+ {
+  "text": "Kamu letak Sin Ling di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "832dc232"
+ },
+ {
+  "text": "Kamu letak Sin Ling di hadapan Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "a3996b5c"
+ },
+ {
+  "text": "Kamu letak Sin Ling di belakang Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "fe025298"
+ },
+ {
+  "text": "Kamu letak Sin Ling di hadapan Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "dde6861a"
+ },
+ {
+  "text": "Kamu letak Sin Ling di belakang Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "360262ee"
+ },
+ {
+  "text": "Kamu letak Sin Ling di hadapan Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "d0b3398e"
+ },
+ {
+  "text": "Kamu letak Sin Ling di belakang Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "5c82647a"
+ },
+ {
+  "text": "Kamu letak Sin Ling di hadapan Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "fd858d98"
+ },
+ {
+  "text": "Kamu letak Sin Ling di belakang Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "018e7d0c"
+ },
+ {
+  "text": "Kamu letak Rani di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "1e41dcb3"
+ },
+ {
+  "text": "Kamu letak Rani di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "9949f897"
+ },
+ {
+  "text": "Kamu letak Rani di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "35ab5464"
+ },
+ {
+  "text": "Kamu letak Rani di hadapan Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "20847d34"
+ },
+ {
+  "text": "Kamu letak Rani di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "365fd678"
+ },
+ {
+  "text": "Kamu letak Rani di hadapan Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "a3ebe832"
+ },
+ {
+  "text": "Kamu letak Rani di belakang Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "994b453e"
+ },
+ {
+  "text": "Kamu letak Rani di hadapan Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "73965d2c"
+ },
+ {
+  "text": "Kamu letak Rani di belakang Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "42075df0"
+ },
+ {
+  "text": "Kamu letak Rani di hadapan Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "e0ec389a"
+ },
+ {
+  "text": "Kamu letak Rani di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "335d949e"
+ },
+ {
+  "text": "Kamu letak Rani di hadapan Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "8d2f10ca"
+ },
+ {
+  "text": "Kamu letak Rani di belakang Cikgu Mohan.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "ad70ca4e"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di atas pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "6a8cd59d"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di hadapan pentas.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "d18d47d5"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di bawah pokok.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "7193248a"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di hadapan Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "8c3e32be"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di belakang Wei Han.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "5760a782"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di hadapan Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "25de15cc"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di belakang Zali.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "ea4c0488"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di hadapan Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "d1420aea"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di belakang Nani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "df71a5be"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di hadapan Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "973503d0"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di belakang Sin Ling.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "5a78b4b4"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di hadapan Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "153a11fe"
+ },
+ {
+  "text": "Kamu letak Cikgu Mohan di belakang Rani.",
+  "voice": "ms-MY-YasminNeural",
+  "key": "9b799eaa"
+ }
+]
