@@ -15,5 +15,5 @@
 
 ## 外部约定
 - 课本：BM Tahun 1 SJK BA 28（PDF 107）；DSKP 5.1.4(iii)（`资料库/DSKP资料/KSSR2015/Bahasa-Melayu/SJK/TAHUN1.md`，仅截取未审核）。
-- **待核对**：第 2 句 Nani／Sin Ling 的答案 belakang 是看图推断。
+- 第 2 句 Nani／Sin Ling 答案 belakang，老师 2026-10-14 已对原书确认。
 - Hub 署名 Cikgu Lee Xin Hui；工具页内无人名。
