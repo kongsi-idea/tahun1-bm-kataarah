@@ -162,3 +162,7 @@ svg.debug polygon, svg.debug rect, svg.debug circle { fill-opacity: .18; stroke-
 .wgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 .tag.wbtn { position: static; transform: none; z-index: auto; min-height: 52px; font-size: 1.15rem; width: 100%; }
 .tag.wbtn:active { transform: translateY(2px); }
+
+/* 拖拽示范小手 */
+.drag-hint { position: fixed; left: 0; top: 0; z-index: 9999; pointer-events: none; font-size: clamp(34px, 6vw, 56px); line-height: 1; filter: drop-shadow(0 3px 3px rgba(60, 30, 10, .35)); will-change: transform, opacity; }
+@media (prefers-reduced-motion: reduce) { .drag-hint { display: none; } }

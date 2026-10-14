@@ -219,7 +219,7 @@ function drawDebug() {
 
 /* ───────────────────────── 首页／切换 ───────────────────────── */
 function go(mode) {
-  clearAll(); S.mode = mode;
+  clearAll(); S.mode = mode; if (typeof DragHint !== "undefined") DragHint.stop();
   $('#home').hidden = mode !== 'home'; playEl.hidden = mode === 'home';
   if (mode === 'home') return;
   $$('.step').forEach(b => b.classList.toggle('on', b.dataset.mode === mode));
@@ -380,7 +380,28 @@ function startLevel(n) {
   renderCard();
   speakCmd();
   drawDebug();
+  DragHint.show(() => { const f = rest.find(id => A[id] && A[id].tray); return f && A[f].el; });
 }
+/* ── 拖拽示范小手：Susun 开场循环示范「按住→拖到场景」，学生第一次碰到可拖的东西就永久收起 ── */
+const DragHint = (() => {
+  let el = null, anim = null, timer = 0, learned = false;
+  function stop() { clearTimeout(timer); timer = 0; if (anim) { anim.cancel(); anim = null; } if (el) { el.remove(); el = null; } }
+  function loop(srcFn) {
+    const src = srcFn(), st = document.getElementById('stage');
+    if (learned || !src || !st) return stop();
+    const a = src.getBoundingClientRect(), b = st.getBoundingClientRect();
+    if (!a.width || !b.width) { timer = setTimeout(() => loop(srcFn), 600); return; }
+    const x0 = a.left + a.width / 2, y0 = a.top + a.height * .45, x1 = b.left + b.width * .5, y1 = b.top + b.height * .42;
+    if (!el) { el = document.createElement('div'); el.className = 'drag-hint'; el.setAttribute('aria-hidden', 'true'); el.textContent = '👆'; document.body.append(el); }
+    const at = (x, y, s, o) => ({ transform: `translate(${x}px, ${y}px) translate(-35%, -12%) scale(${s})`, opacity: o });
+    anim = el.animate([at(x0, y0, 1, 0), at(x0, y0, 1, 1), at(x0, y0, .85, 1), at(x0, y0, .85, 1), at(x1, y1, .85, 1), at(x1, y1, .85, 1), at(x1, y1, 1, 0)],
+      { duration: 2800, offsets: [0, .12, .22, .3, .72, .82, 1], easing: 'ease-in-out', fill: 'both' });
+    anim.onfinish = () => { timer = setTimeout(() => loop(srcFn), 900); };
+  }
+  document.addEventListener('pointerdown', e => { if (e.target.closest && e.target.closest('.movable, .tray-item')) { learned = true; stop(); } }, true);
+  return { show(srcFn) { stop(); if (learned) return; timer = setTimeout(() => loop(srcFn), 900); }, stop };
+})();
+
 function renderCard(msg, kind) {
   const t = T.tasks[T.idx];
   const lv = [1, 2, 3].map(n => `<button class="lvl ${n === T.level ? 'on' : ''} ${n < T.unlocked ? 'done' : ''}" data-lv="${n}" type="button" ${n > T.unlocked ? 'disabled' : ''}>${n > T.unlocked ? '<span class="lock"></span>' : ''}${levelTitle(n)}</button>`).join('');
