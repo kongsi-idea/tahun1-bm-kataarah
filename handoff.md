@@ -1,6 +1,8 @@
 # Kibarkan Bendera: Kata Arah · 交接
 
 ## 目前做到哪
+2026-10-14 12:50 起 Susun 加了拖拽示范小手（commit 98ca4de，已上线）；本机只用鼠标测过，触控未测。
+
 2026-10-14 已上线：https://tahun1-bm-kataarah.vercel.app（GitHub kongsi-idea/tahun1-bm-kataarah，push main 自动部署）；已上架点子铺（Hub 条目、缩图、dskp-index、coverage 行）。
 
 ## 课本核对
@@ -13,4 +15,4 @@
 - 本机测试：`python3 -m http.server 8793 --bind 127.0.0.1`；gen-voice／测试都用 8793。
 
 ## 最后更新
-2026-10-14 01:50，Claude Sonnet 5.5 @ Mac；Git：✅ 已推
+2026-10-14 12:55，Claude Sonnet 5.5 @ Mac；Git：✅ 已推
